@@ -11,7 +11,7 @@ Hi there!
 This repository is created to keep track of my progress in the awesome JavaScript 30 Day Challenge
 and commiting & logging what I have learnt on daily basis.
 
-If you have any JavaScript/JavaScript30 course realted queries, please create a new issue [here](https://github.com/blademan/JavaScript-Drum-Kit/issues/new). I will try to respond as soon as possible. I am always happy to help and learn new stuff from our JS community.
+If you have any JavaScript/JavaScript30 course realted queries, please create a new issue [here](https://github.com/blademan/CSS-variables/issues/new). I will try to respond as soon as possible. I am always happy to help and learn new stuff from our JS community.
 
 Thanks!
 
